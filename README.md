@@ -1,2 +1,2 @@
-# polkawallet-io.github.io
-The Polkawallet website
+# The website of Polkawallet
+Polkawallet is the mobile wallet for Polkadot.
